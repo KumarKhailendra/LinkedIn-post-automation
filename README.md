@@ -4,8 +4,8 @@
 <em>Automation • AI • Scheduler • Web Dashboard</em>
 
 <p>
-  <a href="https://github.com/KumarKhailendra/linkedin-automation/actions/workflows/ci.yml">
-    <img alt="CI" src="https://github.com/KumarKhailendra/linkedin-automation/actions/workflows/ci.yml/badge.svg" />
+  <a href="https://github.com/KumarKhailendra/LinkedIn-post-automation/actions/workflows/ci.yml">
+    <img alt="CI" src="https://github.com/KumarKhailendra/LinkedIn-post-automation/actions/workflows/ci.yml/badge.svg" />
   </a>
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Django-5.x-092E20?style=flat-square" />
@@ -102,8 +102,8 @@ If `LINKEDIN_PERSON_URN` omitted, it auto-builds from `LINKEDIN_USER_ID`.
 ## 🛠 Installation
 ```powershell
 # Clone (replace YOUR_REPO)
-git clone https://github.com/YOUR_USERNAME/linkedin-automation.git
-cd linkedin-automation
+git clone https://github.com/KumarKhailendra/LinkedIn-post-automation.git
+cd LinkedIn-post-automation
 
 # Create virtual env (Windows PowerShell)
 python -m venv .venv
@@ -234,7 +234,7 @@ git init
 git add .
 git commit -m "feat: initial LinkedIn automation toolkit"
 git branch -M main
-git remote add origin https://github.com/KumarKhailendra/linkedin-automation.git
+git remote add origin https://github.com/KumarKhailendra/LinkedIn-post-automation.git
 git push -u origin main
 ```
 
@@ -269,4 +269,3 @@ Made with 💡, ⚙️ & ☕ — Automate your professional presence.
 <br/>
 <a href="https://www.linkedin.com/in/khailendra-prasad/">LinkedIn</a> • <a href="https://www.youtube.com/@buildandlearntime">YouTube</a>
 </div>
-
