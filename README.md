@@ -259,7 +259,7 @@ Use responsibly. Comply with LinkedIn Platform Terms. Excessive automation may v
 PRs welcome. Open an issue for bugs or feature ideas.
 
 ## 🤝 Connect & Support
-- Connect: <a href="https://www.linkedin.com/in/KumarKhailendra/">LinkedIn @KumarKhailendra</a>
+- Connect: <a href="https://www.linkedin.com/in/khailendra-prasad/">LinkedIn @khailendra-prasad</a>
 - Subscribe: <a href="https://www.youtube.com/@buildandlearntime">YouTube @buildandlearntime</a>
 - If this helped, ⭐ star the repo and share!
 
@@ -267,6 +267,6 @@ PRs welcome. Open an issue for bugs or feature ideas.
 <div align="center">
 Made with 💡, ⚙️ & ☕ — Automate your professional presence.
 <br/>
-<a href="https://www.linkedin.com/in/KumarKhailendra/">LinkedIn</a> • <a href="https://www.youtube.com/@buildandlearntime">YouTube</a>
+<a href="https://www.linkedin.com/in/khailendra-prasad/">LinkedIn</a> • <a href="https://www.youtube.com/@buildandlearntime">YouTube</a>
 </div>
 
